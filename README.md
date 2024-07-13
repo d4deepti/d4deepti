@@ -15,8 +15,7 @@ I am a passionate Category Manager specializing in fashion and baby products. Wi
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=d4deepti&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ## 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/deepti-kumari-658937122)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yourwebsite.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=d4deepti&color=brightgreen)
