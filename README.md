@@ -1,7 +1,7 @@
 # Hi there, I'm Deepti Kumari! 👋
 
 ## 🚀 About Me
-I am a passionate Category Manager specializing in fashion and baby products. With extensive experience in product selection, market analysis, and trend forecasting, I strive to curate collections that resonate with consumers and drive sales. I excel in developing strategic marketing initiatives that align with business objectives and enhance brand visibility.
+I am a passionate Category Manager specializing in fashion and baby products. With extensive experience in product selection, market analysis, and trend forecasting, I strive to curate collections that resonate with consumers and drive sales. I excel in developing strategic marketing initiatives that align with business objectives and enhance brand visibility. Results-oriented professional with a strong background in Category Management and Merchandise Planning, demonstrating a track record of success in analyzing market trends, developing strategic initiatives, and driving profitable growth. Seeking a challenging opportunity to apply my expertise and make a significant impact within a dynamic organization.
 
 ## 🛠️ Skills & Tools
 [![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
