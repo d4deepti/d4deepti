@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Deepti Kumari! 👋
 
 ## 🚀 About Me
 I am a passionate Category Manager specializing in fashion and baby products. With extensive experience in product selection, market analysis, and trend forecasting, I strive to curate collections that resonate with consumers and drive sales. I excel in developing strategic marketing initiatives that align with business objectives and enhance brand visibility.
