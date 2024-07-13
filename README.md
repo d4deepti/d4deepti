@@ -1,9 +1,5 @@
 # Hi there, I'm [Your Name]! 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yourwebsite.com)
-
 ## 🚀 About Me
 I am a passionate Category Manager specializing in fashion and baby products. With extensive experience in product selection, market analysis, and trend forecasting, I strive to curate collections that resonate with consumers and drive sales. I excel in developing strategic marketing initiatives that align with business objectives and enhance brand visibility.
 
@@ -20,16 +16,13 @@ I am a passionate Category Manager specializing in fashion and baby products. Wi
 - **[Project Name](link-to-project)**: Managed the launch of a new fashion collection, focusing on trend analysis and consumer insights, achieving high customer satisfaction rates.
 
 ## 📈 Analytics & Reports
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4deepti&show_icons=true&theme=radical)
 
-## 🌱 Currently Learning
-- Consumer Behavior Analytics
-- E-commerce Strategies
-- Sustainable Fashion Trends
+
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-twitter-handle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yourwebsite.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=d4deepti&color=brightgreen)
