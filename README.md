@@ -5,20 +5,14 @@ I am a passionate Category Manager specializing in fashion and baby products. Wi
 
 ## 🛠️ Skills & Tools
 [![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)](https://www.tableau.com/)
 [![Shopify](https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white&style=for-the-badge)](https://www.shopify.com/)
-[![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge)](https://www.salesforce.com/)
 [![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=for-the-badge)](https://analytics.google.com/)
 
-## 🌟 Key Projects
-- **[Project Name](link-to-project)**: Developed a successful marketing strategy for a seasonal baby clothing line, resulting in a 30% increase in sales.
-- **[Project Name](link-to-project)**: Managed the launch of a new fashion collection, focusing on trend analysis and consumer insights, achieving high customer satisfaction rates.
+## 📈 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=d4deepti&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-## 📈 Analytics & Reports
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4deepti&show_icons=true&theme=radical)
-
-
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=d4deepti&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
