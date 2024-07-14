@@ -5,9 +5,6 @@ I am a passionate Category Manager specializing in fashion and baby products. Wi
 
 ## 🛠️ Skills & Tools
 [![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Shopify](https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white&style=for-the-badge)](https://www.shopify.com/)
-[![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=for-the-badge)](https://analytics.google.com/)
-[![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en/microsoft-365)
 [![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=for-the-badge)](https://www.sap.com/)
 [![Shopify](https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white&style=for-the-badge)](https://www.shopify.com/)
